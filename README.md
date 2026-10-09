@@ -1,6 +1,6 @@
 # Filtro Pasa-Banda Multietapa
 
-  Este repositorio contiene el desarrollo completo de un trabajo centrado en el diseño, análisis, simulación e implementación experimental de un **filtro pasa-banda analógico multietapa**, realizado en el marco de la asignatura *Análisis de Circuitos [TB066]*.
+  Este repositorio contiene el desarrollo completo de un trabajo centrado en el diseño, análisis, simulación e implementación experimental de un **filtro pasa-banda analógico multietapa**, realizado en el marco de la asignatura *Análisis de Circuitos [TB066] - FIUBA*.
 
 ## Descripción general
 
